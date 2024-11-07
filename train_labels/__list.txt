@@ -1,0 +1,4 @@
+./train_labels\0001.png
+./train_labels\0002.png
+./train_labels\0003.png
+./train_labels\0004.png
