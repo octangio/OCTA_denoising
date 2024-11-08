@@ -18,7 +18,7 @@ Combining co-registered optical coherence tomography (OCT) and OCT angiography (
 
 #### Figure 1. Algorithm flowchart.
 
-![img](./Figures/Figure1.tif)
+![img](./Figures/Figure1.jpg)
 ## Getting Start
 
 ### Clone our repo
@@ -85,10 +85,10 @@ cd OCTA_denoising
   ```
  #### Figure 2. Projection of en face OCT/OCTA.
 
-![img](./Figures/Figure2.tif)
+![img](./Figures/Figure2.jpg)
 
  #### Figure 3. En face OCT/OCTA denoising.
 
-![img](./Figures/Figire3.tif)
+![img](./Figures/Figure3.jpg)
 
 
