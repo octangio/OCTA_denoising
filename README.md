@@ -1,10 +1,8 @@
 # Nonperfused Retinal Capillaries - A New Method Developed on OCT and OCTA   
 
-[ [**Paper**](https://www.sciencedirect.com/science/article/pii/S2666914522000380)]
-
 By [**Min Gao**](https://scholar.google.com/citations?user=T1vzVnYAAAAJ&hl=en), [**Yukun Guo**](https://scholar.google.com/citations?user=BCrQPWUAAAAJ&hl=en&oi=sra), [**Tristan T.Hormel**](https://scholar.google.com/citations?user=jdD1rGwAAAAJ&hl=en), Jie Wang, Elizabeth White, Dong-Wouk Park, [**Thomas S. Hwang**](https://www.researchgate.net/profile/Thomas-Hwang-2), [**Steven T. Bailey**](https://www.researchgate.net/profile/Steven-Bailey-10), [**Yali Jia**](https://scholar.google.com/citations?user=hfBY5K8AAAAJ&hl=en&oi=sra)
 
-This repo is the official implementation of "[**Nonperfused Retinal Capillaries - A New Method Developed on OCT and OCTA**](https://www.ophthalmologyscience.org/article/S2666-9145(22)00038-0/fulltext)".
+This repo is the official implementation of "[**Nonperfused Retinal Capillaries - A New Method Developed on OCT and OCTA**]
 
 This software is copyrighted and may only be used for academic research.
 
