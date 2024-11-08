@@ -18,7 +18,7 @@ Combining co-registered optical coherence tomography (OCT) and OCT angiography (
 
 #### Figure 1. Algorithm flowchart.
 
-![img](./Figures/cavnet.jpg)
+![img](./Figures/Figure1.tif)
 ## Getting Start
 
 ### Clone our repo
@@ -83,14 +83,12 @@ cd OCTA_denoising
   ```bash
   python predict_results.py --test_data_path=./dataset/test_data_path --save_path=./dataset/denoising_output --logdir=./logs/saved_model.hdf5
   ```
- #### Figure 2. Predicted results on healthy eyes and eyes with diabetic retinopathy.
+ #### Figure 2. Projection of en face OCT/OCTA.
 
-![img](./Figures/results_DR.jpg)
+![img](./Figures/Figure2.tif)
 
- #### Figure 3. Predicted results on healthy eyes and eyes with branch retinal vein occlusion.
+ #### Figure 3. En face OCT/OCTA denoising.
 
-![img](./Figures/BRVO.jpg)
+![img](./Figures/Figire3.tif)
 
- #### Figure 4. Predicted results on scans with large-field-of view.
 
-![img](./Figures/results_large_field_view.jpg)
