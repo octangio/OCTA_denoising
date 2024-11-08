@@ -6,10 +6,6 @@ This repo is the official implementation of "[**Nonperfused Retinal Capillaries 
 
 This software is copyrighted and may only be used for academic research.
 
-Please cite this paper if you use any component of the software.
-
-Gao M, Guo Y, Hormel TT, Tsuboi K, Pacheco G, Poole D, Bailey ST, Flaxel CJ, Huang D, Hwang TS, Jia Y. A deep learning network for classifying arteries and veins in montaged wide-field OCT angiograms. Ophthalmology Science. 2022 Apr 1:100149.
-
 ## Introduction
 
 Combining co-registered optical coherence tomography (OCT) and OCT angiography (OCTA) signals allows in vivo quantification of occluded capillaries. This study aims to develop a new method to quantify nonperfused retinal capillaries (NPCs) and evaluate NPCs in eyes with age-related macular degeneration (AMD) and diabetic retinopathy (DR). We averaged multiple registered OCT/OCTA scans to create high-definition volumes. The deep capillary plexus slab was defined and segmented. A developed deep learning denoising algorithm removed tissue background noise from capillaries in en face OCT/OCTA. The algorithm segmented NPCs by identifying capillaries from OCT without corresponding flow signals in OCTA. We then investigated the relationships between NPCs and known features in AMD and DR. The segmented NPC achieved an accuracy of 88.2% compared to manual grading of DR. Compared to healthy controls, both the mean number and total length (mm) of NPCs was significantly increased in AMD and DR eyes (P < 0.001, P <0.001). Compared to early and intermediate AMD, the number and total length of NPCs were significantly higher in advanced AMD (number: P<0.001, P<0.001; total length: P = 0.002, P =0.003). Geography atrophy, macular neovascularization, drusen volume, and extrafoveal avascular area (EAA) significantly correlated with increased NPCs (P<0.05). In DR eyes, NPCs correlated with the number of microaneurysms and EAA (P<0.05). The presence of fluid did not significantly correlate with NPCs in AMD and DR. A deep learning-based algorithm can segment and quantify retinal capillaries that lack flow using colocalized OCT/OCTA. This new biomarker may be useful in AMD and DR.
